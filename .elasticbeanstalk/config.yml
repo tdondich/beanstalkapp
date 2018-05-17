@@ -1,0 +1,5 @@
+branch-defaults:
+  master:
+    environment: Twitchplayschess-env 
+global:
+  application_name: twitchplayschess
